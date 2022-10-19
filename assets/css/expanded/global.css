@@ -1,0 +1,52 @@
+@import url("https://use.typekit.net/glf7rom.css");
+:root {
+  --darkBlue: #00112e;
+  --withe: #ffffff;
+  --orange: #fe4819;
+  --ligthBlue: #bce0fd;
+  --darkBlueV2: #0095da;
+  --gray: #f5f5f5;
+}
+
+body,
+button,
+nav,
+a {
+  font-family: raleway, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1,
+h2 {
+  font-size: 3.6rem;
+  font-family: exo-soft, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ralewayBold {
+  font-family: raleway, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.exoBold {
+  font-family: exo-soft, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.exoLigth {
+  font-family: exo-soft, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+}/*# sourceMappingURL=global.css.map */
