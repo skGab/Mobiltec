@@ -7,4 +7,6 @@ html {
 
 body {
   font-size: $body-text-size;
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
 }

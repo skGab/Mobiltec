@@ -49,4 +49,6 @@ html {
 
 body {
   font-size: 1.6rem;
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
 }/*# sourceMappingURL=global.css.map */
