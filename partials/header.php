@@ -15,20 +15,45 @@
     <link rel="stylesheet" href="assets/css/compressed/global.min.css">
 </head>
 
-<header class="container-fluid" style="background-color: orange ;">
-    <div class="row text-white">
-        <figure class="col-6">
-            <img src="assets/img/logo-mobiltec.png" alt="">
-        </figure>
-        <nav class="col-6">
-            <ul>
-                <li>Home</li>
-                <li>contato</li>
-                <li></li>
-                <li></li>
-            </ul>
-        </nav>
-    </div>
-</header>
-
 <body>
+    <!-- HEADER -->
+    <header id="header">
+        <nav class="navbar navbar-expand-lg bg-light">
+            <div class="container-fluid">
+                <figure>
+                    <a class="navbar-brand" href="#"><img src="assets/img/logo-mobiltec.png" alt="Logo Mobiltec" class="img-fluid"></a>
+                </figure>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">HOME</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">QUEM SOMOS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">HISTÓRICO</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link disabled">CONQUISTAS E PRÊMIOS</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link disabled">PRODUTOS</a>
+                        </li>
+                        <figure class="nav-item">
+                            <a class="nav-link disabled"><img src="assets/img/cloud4mobile_logo.png" alt="Logo Cloud4mobile"></a>
+                        </figure>
+                        <li class="nav-item">
+                            <a class="nav-link disabled">CONTATO</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- END HEADER -->

@@ -51,4 +51,8 @@ body {
   font-size: 1.6rem;
   text-rendering: optimizelegibility;
   -webkit-font-smoothing: antialiased;
+}
+
+ul {
+  list-style: none;
 }/*# sourceMappingURL=global.css.map */
