@@ -32,7 +32,7 @@
 ## Índice
 
 - [Tecnologias](#tecnologies)
-- [Introdução & O que o sistema deve fazer](#goal)
+- [Objetivo](#goal)
 - [Autor](#authors)
 
 ## Tecnologias <a name="tecnologies"></a>
